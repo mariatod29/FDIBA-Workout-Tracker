@@ -1,42 +1,44 @@
 form  {
-    padding: 20px;
-    border-radius: 10px;
-    text-align: center;
-  }
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
 
-  label {
-    display: block;
-    color: goldenrod;
-    text-transform: uppercase;
-    font-size: 14px;
-    font-weight: bold;
-    letter-spacing: 1px;
-    margin: 20px 0 10px 0
-  }
+label {
+  display: block;
+  color: var(--yellow);
+  text-transform: uppercase;
+  font-style: normal;
+  font-size: 14px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  margin: 20px 0 10px 0
+}
 
-  input {
-    padding: 10px;
-    width: 400px;
-    max-width: 100%;
-    box-sizing: border-box;
-    border: 1px solid var(--grey);
-  }
+input {
+  padding: 10px;
+  width: 400px;
+  max-width: 100%;
+  box-sizing: border-box;
+  border: 1px solid var(--grey);
+}
 
-  textarea {
-    padding: 10px;
-    max-width: 100%;
-    width: 400px;
-    box-sizing: border-box;
-    border: 1px solid var(--grey);
-  }
+textarea {
+  padding: 10px;
+  max-width: 100%;
+  width: 400px;
+  box-sizing: border-box;
+  border: 1px solid var(--grey);
+  text-align: justify;
+}
 
-  form button {
-    display: block;
-    margin: 20px auto;
-    background: goldenrod;
-    color: white;
-    padding: 10px;
-    border-radius: 6px;
-    font-size: 16px;
-    border: 2px solid transparent;
-  }
+form button {
+  display: block;
+  margin: 20px auto;
+  background: var(--yellow);
+  color: white;
+  padding: 10px;
+  border-radius: 6px;
+  font-size: 16px;
+  border: 2px solid transparent;
+}

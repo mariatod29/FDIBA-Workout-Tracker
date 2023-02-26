@@ -40,7 +40,7 @@ function CreateExercise() {
     return (
         <form onSubmit={handleExerciseCreation}>
             <label>Title</label>
-            <input name="title" type="text" onChange={handleChange} value={exercise.title} maxLength="15" required/>
+            <input name="title" type="text" onChange={handleChange} value={exercise.title} maxLength="100" required/>
             <label>Details</label>
             <textarea 
                 name="details" 
@@ -50,7 +50,7 @@ function CreateExercise() {
                 onChange={handleChange}
                 required
             ></textarea>
-            <button>Add Exercise</button>
+            <button>Add exercise</button>
         </form>
     )
 };

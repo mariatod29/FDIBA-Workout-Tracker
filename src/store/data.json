@@ -1,10 +1,82 @@
 {
   "exercises": [
     {
-      "title": "Lorem Ipsum",
-      "details": "Lorem Ipsum",
+      "title": "Pushups",
+      "details": "Pushups are an exercise in which a person, keeping a prone position, with the hands palms down under the shoulders, the balls of the feet on the ground, and the back straight, pushes the body up and lets it down by an alternate straightening and bending of the arms.",
+      "complete": true,
+      "id": 3017
+    },
+    {
+      "title": "Bulgarian split squat",
+      "details": "The Bulgarian Split Squat is a squat variation where one leg is elevated on a surface and other performs a squat, receiving most of the load. Because of this split position, this single-leg unilateral exercise targets the quadricep muscles, glutes, and hamstrings like no other leg exercise.",
       "complete": false,
-      "id": 7581
+      "id": 8318
+    },
+    {
+      "title": "Bench press",
+      "details": "The bench press is a compound exercise that targets the muscles of the upper body. It involves lying on a bench and pressing weight upward using either a barbell or a pair of dumbbells. During a bench press, you lower the weight down to chest level and then press upwards while extending your arms.",
+      "complete": false,
+      "id": 4715
+    },
+    {
+      "title": "Barbell squat",
+      "details": "Perform barbell squats by standing with your feet shoulder-width apart. Take a deep breath and unrack a weighted barbell, holding it on your upper back. Keep your chest up and your back straight as you hinge your hips and knees to lower your body through a full range of motion into a squat position.",
+      "complete": false,
+      "id": 9755
+    },
+    {
+      "title": "Deadlift",
+      "details": "The deadlift is a weight training exercise in which a loaded barbell or bar is lifted off the ground to the level of the hips, torso perpendicular to the floor, before being placed back on the ground. It is one of the three powerlifting exercises, along with the squat and bench press.",
+      "complete": false,
+      "id": 85
+    },
+    {
+      "title": "Romanian deadlift",
+      "details": "A Romanian Deadlift (RDL) is a deadlift in which the body is bent at the hips and the knees are not bent. The deadlift is a strengthening exercise where a loaded barbell is lifted off the ground from a stabilized, bent over position, knees free to bend.",
+      "complete": false,
+      "id": 8947
+    },
+    {
+      "title": "Leg extension",
+      "details": "The leg extension is a resistance weight training exercise that targets the quadriceps muscle (m. quadriceps femoris) in the legs. The exercise is done using a machine called the Leg Extension Machine. There are various manufacturers of these machines and each one is slightly different.",
+      "complete": false,
+      "id": 1595
+    },
+    {
+      "title": "Triceps extension",
+      "details": "The Tricep Extension is an isolation movement that helps develop and strengthen the triceps, the muscles that run along the back of your upper arm. You can practice this exercise standing or sitting on a bench for back support.\n\n",
+      "complete": false,
+      "id": 4252
+    },
+    {
+      "title": "Pec deck",
+      "details": "A pec deck is a machine designed to increase strength and muscle mass in the chest. It's so effective that the American Council on Exercise ranked it as one of the best exercises for building chest muscles.",
+      "complete": false,
+      "id": 7490
+    },
+    {
+      "title": "Overhead press",
+      "details": "The overhead press is an upper-body weight training exercise in which the trainee presses a weight overhead while seated or standing. It is mainly used to develop the anterior deltoid muscles of the shoulder.",
+      "complete": false,
+      "id": 382
+    },
+    {
+      "title": "Dumbbell pullover",
+      "details": "The dumbbell pullover is a weightlifting exercise that targets your pecs and lat muscles. Perform the dumbbell pullover exercise by grabbing a single dumbbell and lying back on a flat bench. Keep your lower back in contact with the bench and engage your core. With straight arms, extend the dumbbell above your chest.",
+      "complete": false,
+      "id": 3909
+    },
+    {
+      "title": "LAT pulldown",
+      "details": "The pulldown exercise works the back muscles and is performed at a workstation with adjustable resistance, usually plates. While seated, you pull a hanging bar toward you to reach chin level, then release it back up with control for one repetition. This exercise can be done as part of an upper-body strength workout.",
+      "complete": false,
+      "id": 7653
+    },
+    {
+      "title": "Seated row",
+      "details": "The seated row is an exercise you can do with a weight machine to work the muscles in your upper back. Specifically, the seated row targets the muscles in your upper back and also the latissimus dorsi — a muscle on the outer side of the chest wall.",
+      "complete": false,
+      "id": 5687
     }
   ]
 }
